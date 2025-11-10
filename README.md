@@ -113,13 +113,6 @@ const darshana = {
 
 ---
 
-## 📈 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/darshana-jayalath/darshana-jayalath/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
 
 ## 💡 Random Dev Quote
 
