@@ -95,44 +95,34 @@ const darshana = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshana-jayalath&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9"/>
 </div>
 
-<div align="center" style="
-  background: linear-gradient(135deg, rgba(13,17,23,0.8), rgba(25,25,35,0.8));
-  border: 2px solid rgba(255, 255, 255, 0.1);
-  border-radius: 15px;
-  padding: 25px 20px;
-  backdrop-filter: blur(12px);
-  box-shadow: 0 0 25px rgba(0, 217, 255, 0.15);
-  width: fit-content;
-  margin: 30px auto;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-">
-  <a href="https://github.com/Darshana-Jayalath" target="_blank" style="text-decoration: none;">
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com?user=darshana-jayalath&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" 
-      alt="Darshana Jayalath's GitHub Streak" 
-      style="border-radius: 12px; width: 95%; max-width: 450px;"
-    />
+<!-- Streak card inside a modern card container (for a normal webpage) -->
+<div style="display:flex;justify-content:center;padding:18px;">
+  <a href="https://github.com/darshana-jayalath" target="_blank" rel="noopener" style="text-decoration:none;">
+    <div style="
+      width:540px;
+      max-width:100%;
+      background:linear-gradient(180deg, rgba(13,17,23,0.9), rgba(20,24,30,0.9));
+      border-radius:12px;
+      padding:16px;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.4);
+      border:1px solid rgba(255,255,255,0.04);
+      display:flex;
+      align-items:center;
+      gap:14px;
+    ">
+      <img
+        src="https://git-hub-streak-stats.vercel.app/?user=darshana-jayalath&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"
+        alt="GitHub Streak"
+        style="height:88px; width:auto; border-radius:8px; background:#0D1117;"
+        onerror="this.src='https://streak-stats.demolab.com/?user=darshana-jayalath&theme=tokyonight'; this.style.opacity=0.92;"
+      />
+      <div style="color:#cbd5e1;">
+        <div style="font-weight:700; font-size:16px; color:#fff; margin-bottom:6px;">GitHub Streak</div>
+        <div style="font-size:13px; opacity:.85;">Daily contributions streak & longest streak — click to view profile.</div>
+      </div>
+    </div>
   </a>
-  <h3 style="
-    color: #00D9FF;
-    font-family: 'Poppins', sans-serif;
-    font-weight: 600;
-    letter-spacing: 0.5px;
-    margin-top: 15px;
-  ">
-    🚀 Keep Coding. Keep Streaking.
-  </h3>
 </div>
-🪄 Optional Add-on (Animated Gradient Background)
-You can add a moving gradient background behind it for a futuristic look:
-
-html
-Copy code
-<div align="center" style="position: relative; padding: 40px 0; overflow: hidden;">
-  <div style="
-    position: absolute;
-    top: 0; left: 0; right: 0; bottom: 0;
-    backgroun
 
 
 <div align="center">
