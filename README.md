@@ -1,16 +1,15 @@
 <div align="center">
-  
-# 👨‍💻 Darshana Jayalath
 
-### Full Stack Developer | Tech Enthusiast | Problem Solver
+# 👋 Welcome to My Digital Workspace
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Building+Digital+Experiences;Full+Stack+Development;Always+Learning+New+Tech;Turning+Coffee+into+Code+☕" alt="Typing SVG" />
+### I'm Darshana Jayalath
+**Full Stack Developer | Creative Technologist | Problem Solver**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/darshanajayalath)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshanajayalath0@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/darshana%20jayalath)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Always+Learning+New+Tech;Building+Creative+Solutions" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=darshana-jayalath&label=Profile%20Views&color=0e75b6&style=flat-square)
+[![Profile Views](https://komarev.com/ghpvc/?username=darshana-jayalath&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/darshana-jayalath)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/darshanajayalath)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:darshanajayalath0@gmail.com)
 
 </div>
 
@@ -21,100 +20,103 @@
 ```javascript
 const darshana = {
     location: "Sri Lanka 🇱🇰",
-    currentFocus: "Building a Local Product Marketplace",
-    learning: ["Spring Boot", "React", "Laravel"],
-    askMeAbout: ["React", "PHP", "Full Stack Development"],
-    funFact: "I think I'm funny when speaking 😄",
-    lifePhilosophy: "Code is poetry written in logic"
+    currentFocus: "Building innovative web solutions",
+    learning: ["Spring Boot", "React Ecosystem", "Laravel"],
+    funFact: "I think I'm funny in speaking 😄",
+    availableFor: "Freelance projects & collaborations"
 };
 ```
 
-<div align="center">
-  
-### 🎯 Current Mission
-🔭 Developing a **Local Product Market Web Application**  
-🌱 Mastering **Spring Boot**, **React** & **Laravel**  
-💡 Open to collaborating on innovative projects
-
-</div>
+- 🔭 Currently working on: **Local Product Marketplace Web Application**
+- 🌱 Learning: **Spring Boot, Advanced React, Laravel**
+- 💡 Ask me about: **React, PHP, Full Stack Development**
+- 🎯 2024 Goals: Master microservices architecture & cloud deployment
 
 ---
 
-## 🛠️ Tech Arsenal
+## 💻 Tech Stack
 
-<details open>
-<summary><b>💻 Languages</b></summary>
-<br>
+### 🎨 Frontend Development
+<div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>⚡ Frameworks & Libraries</b></summary>
-<br>
-
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+</div>
+
+### ⚙️ Backend Development
+<div align="center">
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-</details>
+</div>
 
-<details open>
-<summary><b>🗄️ Databases</b></summary>
-<br>
+### 🗄️ Database Technologies
+<div align="center">
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-</details>
+</div>
 
-<details open>
-<summary><b>🔧 Tools & Platforms</b></summary>
-<br>
+### 🛠️ Development Tools
+<div align="center">
 
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+### 🎨 Design & Creative Suite
+<div align="center">
+
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+![Adobe Audition](https://img.shields.io/badge/Audition-9999FF?style=for-the-badge&logo=adobe-audition&logoColor=white)
+![Adobe Animate](https://img.shields.io/badge/Animate-FF0000?style=for-the-badge&logo=adobe-animate&logoColor=white)
+![InDesign](https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobe-indesign&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-EE3124?style=for-the-badge&logo=autodesk&logoColor=white)
+
+</div>
+
+### 💻 Operating Systems
+<div align="center">
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
-</details>
+</div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=darshana-jayalath&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshana-jayalath&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=darshana-jayalath&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=darshana-jayalath&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=darshana-jayalath&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=darshana-jayalath&theme=tokyo-night&hide_border=true&bg_color=0D1117)
-
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshana-jayalath&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 ---
@@ -122,8 +124,8 @@ const darshana = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=darshana-jayalath&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=darshana-jayalath&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -132,79 +134,45 @@ const darshana = {
 ## 📈 Contribution Graph
 
 <div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/darshana-jayalath/darshana-jayalath/output/github-contribution-grid-snake-dark.svg)
+  
+[![Darshana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=darshana-jayalath&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 💼 Professional Highlights
+## 🎯 Current Focus
 
-```yaml
-experience:
-  - role: Full Stack Developer
-    focus: Web Application Development
-    specialization:
-      - Frontend: React, React Native
-      - Backend: Spring Boot, Laravel, PHP
-      - Database: MySQL, MongoDB
-      
-current_projects:
-  - name: Local Product Marketplace
-    description: E-commerce platform for local businesses
-    tech_stack: [React, Spring Boot, MySQL]
-    status: In Development
-    
-skills:
-  technical:
-    - Responsive Web Design
-    - RESTful API Development
-    - Database Architecture
-    - Version Control (Git)
-  
-  soft_skills:
-    - Problem Solving
-    - Team Collaboration
-    - Quick Learner
-    - Effective Communication
+```mermaid
+mindmap
+  root((Darshana))
+    Full Stack Development
+      React Ecosystem
+      Spring Boot APIs
+      Laravel Backend
+    UI/UX Design
+      Figma Prototyping
+      Responsive Design
+      User Experience
+    DevOps
+      Git Workflow
+      CI/CD Pipeline
+      Cloud Deployment
+    Creative Suite
+      Adobe Products
+      Video Editing
+      Graphic Design
 ```
 
 ---
 
-## 🌟 Featured Projects
+## 🤝 Let's Connect
 
 <div align="center">
 
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| 🛒 Local Market | E-commerce platform | React + Spring Boot | 🚧 In Progress |
-| 📱 Mobile App | Cross-platform solution | React Native | 🎯 Planning |
-| 🔧 API Service | Backend microservice | Laravel + MySQL | ✅ Complete |
-
-</div>
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-I'm always interested in collaborating on innovative projects and learning from fellow developers!
-
-**📧 Email:** [darshanajayalath0@gmail.com](mailto:darshanajayalath0@gmail.com)  
-**💼 LinkedIn:** [Darshana Jayalath](https://linkedin.com/in/darshanajayalath)  
-**👥 Facebook:** [Connect on Facebook](https://fb.com/darshana%20jayalath)
-
-<br>
-
-### 💭 Developer Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<br>
-
-### 🎵 Spotify Playing
-[![Spotify](https://novatorem-darshana-jayalath.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/darshanajayalath)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/darshana%20jayalath)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshanajayalath0@gmail.com)
 
 </div>
 
@@ -212,14 +180,10 @@ I'm always interested in collaborating on innovative projects and learning from 
 
 <div align="center">
 
-### 🌈 Fun Extras
+### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
+![Snake animation](https://github.com/darshana-jayalath/darshana-jayalath/blob/output/github-contribution-grid-snake.svg)
 
-<br>
-
-**⭐️ From [darshana-jayalath](https://github.com/darshana-jayalath) | Made with 💙 and ☕**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+**⭐️ From [Darshana Jayalath](https://github.com/darshana-jayalath)**
 
 </div>
