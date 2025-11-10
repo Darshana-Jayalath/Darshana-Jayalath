@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 ```javascript
 const darshana = {
@@ -24,7 +24,7 @@ const darshana = {
     currentProject: "Local Product Market Web App",
     learning: ["Spring Boot", "React", "Laravel"],
     interests: ["Web Development", "UI/UX Design", "Creative Coding"],
-    funFact: "I think I'm funny in speaking 😄",
+    funFact: "I think I'm funny in speaking ",
     askMeAbout: ["React", "PHP", "Full Stack Development"],
     reachMe: "darshanajayalath0@gmail.com"
 };
@@ -139,15 +139,15 @@ graph LR
 
 ---
 
-## 📫 Let's Connect!
+##  Let's Connect!
 
 <div align="center">
 
-### 💬 Open to collaborate on innovative projects!
+###  Open to collaborate on innovative projects!
 
 **If you have an exciting project or opportunity, feel free to reach out:**
 
-📧 darshanajayalath0@gmail.com
+ darshanajayalath0@gmail.com
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
 
@@ -157,8 +157,8 @@ graph LR
 
 <div align="center">
   
-### ⭐️ From [Darshana Jayalath](https://github.com/darshana-jayalath)
+###  From [Darshana Jayalath](https://github.com/darshana-jayalath)
 
-**"Code is like humor. When you have to explain it, it's bad!"** 😄
+**"Code is like humor. When you have to explain it, it's bad!"**
 
 </div>
